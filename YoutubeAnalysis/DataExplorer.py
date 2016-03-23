@@ -1,6 +1,6 @@
 '''
 Created on Dec 5, 2015
-@authors: urjit0209
+@authors: urjit0209,vec241, mc3784
 '''
 import matplotlib.pyplot as plt
 import DataPlotter as dataplotter

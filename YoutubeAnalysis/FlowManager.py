@@ -1,6 +1,6 @@
 '''
 Created on Dec 5, 2015
-@author: urjit0209,vec241, mc3784
+@author: urjit0209
 '''
 
 import sys
